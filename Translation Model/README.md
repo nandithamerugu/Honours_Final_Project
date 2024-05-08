@@ -23,4 +23,7 @@
 ### Test2_result_epochs_10.txt
 - This is the text file for the output of testfile2(above) for the model trained for 10 epochs.
 
+### translationModel_transformer.ipynb
+- Same as above but changed the model to transformer
+
   
