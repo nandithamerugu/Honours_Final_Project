@@ -1,1 +1,5 @@
-
+- First we need to run refinement.ipynb which results filtered.tsv
+- We need to input this file to the finetuning.ipynb.
+- Then it generates the training loss and validation loss of the model clearly.
+- We need to train the ParaGeDi model. gedi_training.py and gedi_adapter.py
+- Run the metric.ipynb for J metric results.  
